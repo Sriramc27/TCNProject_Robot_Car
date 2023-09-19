@@ -3,7 +3,7 @@ Established communication between Arduino and ESP32 cam server for controlling t
 Enabled the car to be controlled remotely, avoid obstacles(Obstacle avoidance) from web server by Serial communication.
 Enabled firewall security, bluetooth system, and UI for managing the car.
 
-Programming Software: Arduino IDE、ElegooKit
+Programming Software: Arduino IDE、ElegooKit 
 Motor Driven: Dual-channel TB6612 Driver Chip
 Communication: Uart / WIFI
 
